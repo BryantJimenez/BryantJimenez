@@ -1,4 +1,4 @@
-### Hi there 👋
+# Bryant Jimenez - [@bryantluis1](https://twitter.com/bryantluis1)
 
 <!--
 **BryantJimenez/BryantJimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
